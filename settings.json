@@ -1,0 +1,24 @@
+{
+    "text":{
+        "search":"Search",
+        "categories":"Categories",
+        "blogroll":"Blogroll",
+        "tags":"Tags",
+        "license":"All Rights Reserved"
+    },
+    "dimension":{
+        "width":"700",
+        "top":150,
+        "main_font":10
+    },
+    "color":{
+        "header":"#69D2E7",
+        "header_border":"#A7DBD8",
+        "background":"#E0E4CC",
+        "border":"#000",
+        "contentbg":"#fff",
+        "txt":"#333",
+        "link":"#FA6900",
+        "hover":"#F38630"
+    }
+}
